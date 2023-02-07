@@ -1,4 +1,4 @@
-# myUNIVESER (myuniverse)
+# myUNIVERSE (myuniverse)
 
 myUNIVERSE
 
