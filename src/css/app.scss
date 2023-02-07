@@ -1,0 +1,26 @@
+// app global css in SCSS form
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.fontInter {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+.fontInterSemiBold {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+.fontInterBold {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+}
+
+.fontInterLight{
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+}
+
+.backgroundGrey {
+  background-color: #F8F8F8
+}
